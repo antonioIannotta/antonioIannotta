@@ -17,3 +17,18 @@ Since today it's fundamental to improve the quality of the work here's a list of
 | Git |
 | CI/CD pipeline |
 | Docker |
+
+### Artificial Intelligence
+Along my academic career, especially during my Master's Degree Thesis I had the oppurtinity to approach with several theoretical concepts and practical tools to develop AI systems:
+| Artificial Intelligence concepts and tools|
+| ----------------------- |
+| Machine Learning |
+| Deep Learning |
+| Fairness in Artificial Intelligence |
+| Pandas |
+| Scikit learn |
+| Numpy |
+| Matplotlib |
+| Fairlearn |
+| Pytorch |
+| Tensorflow |
