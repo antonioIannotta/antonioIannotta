@@ -2,5 +2,18 @@
 I'm Antonio Iannotta, Software Engineer. I automate stuff, obsessed with clean coding and knowledge.
 ### Programming Languages
 Here's a list of the programming languages I know and I've used the most:
-* ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=36465D&logoColor=AAA&style=flat-square&link=)
-* ![python](https://img.shields.io/static/v1?logo=java&label=&message=java&color=36465D&logoColor=AAA&style=flat-square&link=)
+| Programming Languages |
+| --------------------- |
+| Python |
+| Java |
+| Kotlin |
+| Javascript |
+
+### Tools
+Since today it's fundamental to improve the quality of the work here's a list of tools I usually use when I write software:
+| Tools |
+| ----- |
+| Gradle |
+| Git |
+| CI/CD pipeline |
+| Docker |
