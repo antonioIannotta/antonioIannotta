@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Antonio Iannotta]
+# Hi there 👋, I'm Antonio Iannotta
 
 ### 🌱 About Me:
 - 🔧 Software Engineer
