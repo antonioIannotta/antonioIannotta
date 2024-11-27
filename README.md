@@ -1,34 +1,20 @@
-### Hello
-I'm Antonio Iannotta, Software Engineer. I automate stuff, obsessed with clean coding and knowledge.
-### Programming Languages
-Here's a list of the programming languages I know and I've used the most:
-| Programming Languages |
-| --------------------- |
-| Python |
-| Java |
-| Kotlin |
-| Javascript |
+# Hi there 👋, I'm [Antonio Iannotta]
 
-### Tools
-Since today it's fundamental to improve the quality of the work here's a list of tools I usually use when I write software:
-| Tools |
-| ----- |
-| Gradle |
-| Git |
-| CI/CD pipeline |
-| Docker |
+### 🌱 About Me:
+- 🔧 Software Engineer
+- 💻 Passionate about Linux, full-stack development, and creating impactful software
+- 📍 Based in Italy
 
-### Artificial Intelligence
-Along my academic career, especially during my Master's Degree Thesis I had the oppurtinity to approach with several theoretical concepts and practical tools to develop AI systems:
-| Artificial Intelligence concepts and tools|
-| ----------------------- |
-| Machine Learning |
-| Deep Learning |
-| Fairness in Artificial Intelligence |
-| Pandas |
-| Scikit learn |
-| Numpy |
-| Matplotlib |
-| Fairlearn |
-| Pytorch |
-| Tensorflow |
+### 🚀 Skills & Interests:
+- **Languages:** Python, Java, TypeScript
+- **Frameworks:** Node.js, Spring
+- **Data**: Apache Kafka, Apache Flink, Ververica Platform
+- **Databases:** MongoDB
+
+### 📊 GitHub Stats:
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioIannotta&show_icons=true&theme=radical)
+
+### 🤝 Let's Connect:
+- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/antonio-iannotta-3703111a4/)
+<!-- Personal website: [Your website if available]-->
+- Email: antonio.iannott.ai26@gmail.com
