@@ -12,6 +12,6 @@
 - **Databases:** MongoDB
 
 ### 🤝 Let's Connect:
-- LinkedIn: [Your LinkedIn profile](https://www.linkedin.com/in/antonio-iannotta-3703111a4/)
+- LinkedIn: [Antonio Iannotta](https://www.linkedin.com/in/antonio-iannotta-3703111a4/)
 <!-- Personal website: [Your website if available]-->
 - Email: antonio.iannott.ai26@gmail.com
