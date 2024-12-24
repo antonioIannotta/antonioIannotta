@@ -14,4 +14,4 @@
 ### 🤝 Let's Connect:
 - LinkedIn: [Antonio Iannotta](https://www.linkedin.com/in/antonio-iannotta-3703111a4/)
 <!-- Personal website: [Your website if available]-->
-- Email: antonio.iannott.ai26@gmail.com
+- Email: antonio.iannotta.ai26@gmail.com
